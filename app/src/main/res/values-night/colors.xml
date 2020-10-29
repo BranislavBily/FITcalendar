@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#2257A1</color>
     <color name="colorAccent">#8CBCFF</color>
 
-    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorBackground">#000000</color>
 
     <color name="disabled_button">@color/colorPrimaryDark</color>
 </resources>
