@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3388FF</color>
+    <color name="colorPrimary">#2361B8</color>
     <color name="colorPrimaryDark">#2257A1</color>
-    <color name="colorAccent">#8CBCFF</color>
+    <color name="colorAccent">#4C73AA</color>
 
     <color name="colorBackground">#000000</color>
+
+    <color name="colorText">#E4E4E4</color>
 
     <color name="disabled_button">@color/colorPrimaryDark</color>
 </resources>
